@@ -2,7 +2,7 @@
 
 ## Sommaire
 
-Ce projet à été réalisé par [AZZIZ Otman](https://forge.univ-lyon1.fr/p1709456) et [<à confirmer>](https://forge.univ-lyon1.fr)
+Ce projet à été réalisé par [AZZIZ Otman](https://github.com/otmanazziz) et [CLAUVIS Dane](https://github.com/DaneClauvis)
 
 Voici ci-dessous le sommaire sur le projet:
 - [Titre 1](https://github.com/otmanazziz/queens-problem#Titre-1)
